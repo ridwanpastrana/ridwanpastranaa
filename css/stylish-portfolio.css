@@ -28,6 +28,14 @@ body {
   padding: 0;
 }
 
+.text-vertical-center h5 {
+  font-size: 4.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  display: center;
+
+}
 
 /* Custom Button Styles */
 
